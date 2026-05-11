@@ -1,0 +1,9 @@
+# Editor
+.vscode/
+
+# Claude local settings
+.claude/
+
+# Extracted output
+extracted_images/
+extracted_text/
